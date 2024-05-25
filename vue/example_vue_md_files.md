@@ -1,0 +1,1 @@
+node vue/vue_md_files.js -i /Users/tomandersson/Documents/workspace/tomandersson_se/src/components -o /Users/tomandersson/Documents/workspace/tomandersson_se/MD
