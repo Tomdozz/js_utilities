@@ -9,6 +9,8 @@
   "author": "Tom Andersson",
   "license": "ISC",
   "dependencies": {
-    "commander": "^12.1.0"
+    "child_process": "^1.0.2",
+    "commander": "^12.1.0",
+    "shelljs": "^0.8.5"
   }
 }

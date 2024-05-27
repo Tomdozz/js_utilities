@@ -1,0 +1,1 @@
+node vue_create_project.js --name <Project name> --path <Where to put project>
